@@ -1,4 +1,4 @@
-# Hi there, I'm Luka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+# Hello, I'm Luka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ### 👨‍💻 &nbsp;About Me:
 
@@ -28,4 +28,5 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=lukarajic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukarajic&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukarajic&theme=dark&background=000000)](https://git.io/streak-stats)
+
