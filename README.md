@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Luka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<!--
-**lukarajic/lukarajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 &nbsp;About Me:
 
-Here are some ideas to get you started:
+- 🎓 3rd Year Computer Science Specialist at the University of Toronto
+- 🧠 I'm currently learning about Operating Systems, Algorithm Design and Analysis, and Principles of Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ### 📝 Recent Roles
+--- -->
+
+### 🛠 &nbsp;Languages and Technologies:
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+
+
+---
+
+### 🔥 &nbsp; My Stats:
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lukarajic&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukarajic&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
