@@ -2,7 +2,7 @@
 
 ### 👨‍💻 &nbsp;About Me:
 
-- 🎓 3rd Year Computer Science Specialist at the University of Toronto
+- :school: 3rd Year Computer Science Specialist at the University of Toronto
 - 🧠 I'm currently learning about Operating Systems, Algorithm Design and Analysis, and Principles of Programming Languages
 
 ---
