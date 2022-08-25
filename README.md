@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Operating Systems, Algorithm Design and Analysis, Principles of Programming Languages**
 
+- 👨‍💻 All of my projects are available at [https://replit.com/@lukarajic](https://replit.com/@lukarajic)
+
+- 💬 Ask me about **Software tools and Systems, Computer Organization, Data Structures and Analysis**
+
 - 📫 How to reach me **luka.rajic@mail.utoronto.ca**
 
 <p align="left">
