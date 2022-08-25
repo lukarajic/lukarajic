@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Operating Systems, Algorithm Design and Analysis, Principles of Programming Languages**
 
-- 👨‍💻 All of my projects are available at [https://www.freecodecamp.org/lukarajic](https://www.freecodecamp.org/lukarajic)
-
 - 💬 Ask me about **Software tools and Systems, Computer Organization, Data Structures and Analysis**
 
 - 📫 How to reach me **luka.rajic@mail.utoronto.ca**
