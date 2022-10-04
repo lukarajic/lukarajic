@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **luka.rajic@mail.utoronto.ca**
 
-- ⚡ Fun fact **I enjoy reading, traveling, and the arts!**
+- ⚡ Fun fact **I enjoy reading, traveling, and learning new things!**
 
 <p align="left">
 </p>
