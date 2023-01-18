@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a Data Structures and Analysis Video Series**
 
-- 🌱 I’m currently learning **Operating Systems, Algorithm Design and Analysis, Principles of Programming Languages**
+- 🌱 I’m currently learning **Introduction to Software Engineering, Programming on the Web, Introduction to Databases, Principles of Computer Networks**
 
-- 💬 Ask me about **Software tools and Systems, Computer Organization, Data Structures and Analysis**
+- 💬 Ask me about **Operating Systems, Algorithm Design and Analysis, Principles of Programming Languages**
 
 - 📫 How to reach me **luka.rajic@mail.utoronto.ca**
 
