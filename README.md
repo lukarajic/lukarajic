@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently purs
 
 ## 🛠️ Featured Projects
 
-### 📚 [AlgoDeck](https://github.com/lukarajic/lukarajic)
+### 📚 [AlgoDeck](https://github.com/lukarajic/AlgoDeck)
 *Mobile Interview Preparation App*
 - React Native flashcard app for technical interview preparation
 - Features performance tracking and adaptive learning
