@@ -1,63 +1,67 @@
-# Hi there, I'm Luka Rajic! 👋
+# Hi there, I'm Luka! 👋
 
-**Software Developer** | **Computer Science Student** | **Full Stack Developer**
+I'm a **Computer Science Specialist** at the **University of Toronto** with a passion for building high-performance applications and contributing to the open-source community. 
 
-Welcome to my GitHub profile! I'm a passionate software developer currently pursuing my H.B.Sc in Computer Science at the University of Toronto, with a focus on building scalable and efficient solutions.
+---
 
-## 🚀 About Me
+### 📈 Experience & Education
 
-- 🎓 Computer Science Specialist with Math Minor at University of Toronto (2020-2026)
-- 💼 Former Junior Full Stack Developer at Sparkrock (May 2023 - August 2024)
-- 🏆 Dean's List recipient and President's Scholar of Excellence
+* 🎓 **University of Toronto** | H.B.Sc. in Computer Science
+* 💼 **Ex-Full Stack Intern** | Sparkrock
 
-## 💻 Technical Skills
+---
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+### 🛠️ Tech Stack
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+**Languages**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🛠️ Featured Projects
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+### 👀 [PageWatch](https://github.com/lukarajic/PageWatch)
+A high-performance browser extension for monitoring web page content changes.
+- **Tech Stack:** Rust, WebAssembly, TypeScript, React, Vite
 
 ### 📚 [AlgoDeck](https://github.com/lukarajic/AlgoDeck)
-*Mobile Interview Preparation App*
-- React Native flashcard app for technical interview preparation
-- Features performance tracking and adaptive learning
-- Built with TypeScript, Expo, and React Native
+Mobile app for technical interview preparation with flashcard-based Leetcode practice.
+- **Tech Stack:** React Native, TypeScript
 
-### 🍺 [Homebrew Contribution](https://github.com/Homebrew/brew/pull/20360)
-*Open Source Package Manager Enhancement*
-- Engineered `--sizes` flag for `brew info` command
-- Enables users to view disk usage of installed packages
-- Merged contribution to one of the most popular package managers
+### 🍺 [Open Source Contribution: Homebrew](https://github.com/Homebrew/brew/pull/20360)
+Contributed a new `--sizes` flag to the `brew info` command for displaying disk usage of installed packages.
+- **Tech Stack:** Ruby
 
-## 💼 Professional Experience
 
-**Junior Full Stack Developer** at **Sparkrock** (May 2023 - August 2024)
-- Developed modern Angular UIs and C# backend solutions for ERP systems
-- Optimized SQL Server schemas and created API integrations
-- Worked in Agile environment using Microsoft Azure
+### 📬 Connect with me:
 
-## 🤝 Let's Connect!
-
-- 📧 Email: [luka.rajic@mail.utoronto.ca](mailto:luka.rajic@mail.utoronto.ca)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/lukarajic)
+[![Email](https://img.shields.io/badge/Email-luka.rajic@mail.utoronto.ca-blue?style=for-the-badge&logo=gmail)](mailto:luka.rajic@mail.utoronto.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-lukarajic-181717?style=for-the-badge&logo=github)](https://github.com/lukarajic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukarajic/)
