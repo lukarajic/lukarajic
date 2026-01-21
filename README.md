@@ -4,7 +4,7 @@ I'm a **Computer Science Specialist** at the **University of Toronto** with a pa
 
 ---
 
-### 📈 Experience & Education
+### 👨‍💻 Experience & Education
 
 * 🎓 **University of Toronto** | H.B.Sc. in Computer Science
 * 💼 **Ex-Full Stack Intern** | Sparkrock
@@ -47,6 +47,8 @@ I'm a **Computer Science Specialist** at the **University of Toronto** with a pa
 
 ### 🚀 Projects
 
+#### 🛠️ Personal Projects
+
 ### 👀 [PageWatch](https://github.com/lukarajic/PageWatch)
 A high-performance browser extension for monitoring web page content changes.
 - **Tech Stack:** Rust, WebAssembly, TypeScript, React, Vite
@@ -55,10 +57,19 @@ A high-performance browser extension for monitoring web page content changes.
 Mobile app for technical interview preparation with flashcard-based Leetcode practice.
 - **Tech Stack:** React Native, TypeScript
 
-### 🍺 [Open Source Contribution: Homebrew](https://github.com/Homebrew/brew/pull/20360)
+---
+
+#### 🤝 Open Source Contributions
+
+### 🐞 [SerenityOS](https://github.com/SerenityOS/serenity/pull/26555)
+Fixed a kernel panic during system shutdown by ensuring a process's stopped state is cleared upon death to allow for proper thread cleanup.
+- **Tech Stack:** C++
+
+### 🍺 [Homebrew](https://github.com/Homebrew/brew/pull/20360)
 Contributed a new `--sizes` flag to the `brew info` command for displaying disk usage of installed packages.
 - **Tech Stack:** Ruby
 
+---
 
 ### 📬 Connect with me:
 
