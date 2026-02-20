@@ -1,33 +1,41 @@
 # Hi, I'm Luka Rajic 👋
 
-**Computer Science Specialist @ University of Toronto** 
+**Computer Science Specialist @ University of Toronto**
 
 ---
 
-### 🛠 Tech Stack
-
-* **Languages:** C, C++, Rust, Python, C#, Assembly (x86)
-* **Systems & Tools:** Linux/Unix, GDB, Valgrind, SIMD (AVX2), Multithreading, Git
-* **Web & Others:** WebAssembly (Wasm), TypeScript, SQL, .NET
+### 🚀 Technical Focus
+* **Languages:** C++ (17/20), C, Rust, Assembly (x86, RISC-V), Python
+* **Systems:** Linux Kernel, Multithreading (Pthreads/OpenMP), SIMD (AVX2/NEON)
+* **Performance:** Cache-conscious design, memory management, GDB/Valgrind profiling
+* **Principles:** Object-Oriented Design, Hardware-Software Interaction, SDLC
 
 ---
 
-### 🚀 Key Projects
+### 🛠️ Featured Projects
 
 #### [Optimized-Matrix-Multiplication](https://github.com/lukarajic/Optimized-Matrix-Multiplication)
-* **The Goal:** Achieving near-theoretical peak performance on modern hardware.
-* **The Tech:** C++, AVX2 (SIMD), Cache Tiling.
-* **The Win:** Optimized for cache locality and instruction-level parallelism to minimize bottlenecking.
+> **Performance: 1.7 GFLOPS → 120 GFLOPS (~70x speedup)**
+* Engineered a high-performance C++ library leveraging **SIMD (AVX2)** and **Cache Tiling**.
+* Optimized for memory hierarchy to minimize cache misses and maximize CPU throughput.
+* *Keywords: C++, Performance Tuning, Computer Architecture*
 
 #### [SerenityOS Kernel Contribution](https://github.com/SerenityOS/serenity/pull/26555)
-* **The Bug:** A kernel panic during system shutdown.
-* **The Fix:** Traced and synchronized process state transitions in C++ to ensure clean thread death and resource deallocation.
+* Investigated and resolved a **kernel panic** by tracing process state transitions.
+* Utilized low-level synchronization primitives in C++.
+* *Keywords: Systems Programming, Debugging, C++, OS Development*
 
-#### [PageWatch](https://github.com/lukarajic/PageWatch)
-* **The Core:** A high-performance change-detection engine built in Rust.
-* **The Twist:** Compiled to WebAssembly for near-native performance in a browser environment.
+#### [RISC-V CPU Emulator](https://github.com/lukarajic/Simple-CPU-Emulator)
+* Architected a functional emulator for the **RV32I instruction set**.
+* Simulated the full hardware pipeline, including fetch-decode-execute cycles and register file logic.
+* *Keywords: Computer Architecture, Emulator, C++*
+
+#### [Homebrew Contribution](https://github.com/Homebrew/brew/pull/20360)
+* Implemented disk-usage analysis features for the world’s leading macOS/Linux package manager.
+* Keywords: Ruby, Large-scale contribution
 
 ---
 
-### 📫 Let's Connect
+### 📫 Get In Touch
+* **LinkedIn:** [linkedin.com/in/lukarajic](https://linkedin.com/in/lukarajic)
 * **Email:** [luka.rajic@mail.utoronto.ca](mailto:luka.rajic@mail.utoronto.ca)
