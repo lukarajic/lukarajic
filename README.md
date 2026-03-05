@@ -1,41 +1,47 @@
-# Hi, I'm Luka Rajic 👋
+<div align="center">
 
-**Computer Science Specialist @ University of Toronto**
+# Luka Rajic
 
----
+**Systems Engineer · HPC Enthusiast · Open Source Contributor**
 
-### 🚀 Technical Focus
-* **Languages:** C++ (17/20), C, Rust, Assembly (x86, RISC-V), Python
-* **Systems:** Linux Kernel, Multithreading (Pthreads/OpenMP), SIMD (AVX2/NEON)
-* **Performance:** Cache-conscious design, memory management, GDB/Valgrind profiling
-* **Principles:** Object-Oriented Design, Hardware-Software Interaction, SDLC
+[![Email](https://img.shields.io/badge/Email-luka.rajic%40mail.utoronto.ca-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:luka.rajic@mail.utoronto.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lukarajic-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukarajic)
+[![GitHub](https://img.shields.io/badge/GitHub-lukarajic-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lukarajic)
 
----
-
-### 🛠️ Featured Projects
-
-#### [Optimized-Matrix-Multiplication](https://github.com/lukarajic/Optimized-Matrix-Multiplication)
-> **Performance: 1.7 GFLOPS → 120 GFLOPS (~70x speedup)**
-* Engineered a high-performance C++ library leveraging **SIMD (AVX2)** and **Cache Tiling**.
-* Optimized for memory hierarchy to minimize cache misses and maximize CPU throughput.
-* *Keywords: C++, Performance Tuning, Computer Architecture*
-
-#### [SerenityOS Kernel Contribution](https://github.com/SerenityOS/serenity/pull/26555)
-* Investigated and resolved a **kernel panic** by tracing process state transitions.
-* Utilized low-level synchronization primitives in C++.
-* *Keywords: Systems Programming, Debugging, C++, OS Development*
-
-#### [RISC-V CPU Emulator](https://github.com/lukarajic/Simple-CPU-Emulator)
-* Architected a functional emulator for the **RV32I instruction set**.
-* Simulated the full hardware pipeline, including fetch-decode-execute cycles and register file logic.
-* *Keywords: Computer Architecture, Emulator, C++*
-
-#### [Homebrew Contribution](https://github.com/Homebrew/brew/pull/20360)
-* Implemented disk-usage analysis features for the world’s leading macOS/Linux package manager.
-* Keywords: Ruby, Large-scale contribution
+</div>
 
 ---
 
-### 📫 Get In Touch
-* **LinkedIn:** [linkedin.com/in/lukarajic](https://linkedin.com/in/lukarajic)
-* **Email:** [luka.rajic@mail.utoronto.ca](mailto:luka.rajic@mail.utoronto.ca)
+
+## Projects
+
+### 🔢 [Optimized Matrix Multiplication](https://github.com/lukarajic/Optimized-Matrix-Multiplication) `C++`
+Incremental optimization of matrix multiplication from a naive triple-loop (~1.7 GFLOPS) to **~120 GFLOPS on Apple Silicon** — a **70× speedup**. Techniques include cache blocking, SIMD vectorization, and multi-threading. A hands-on study of memory hierarchy, ILP, and TLP.
+
+### ⚙️ [Simple CPU Emulator](https://github.com/lukarajic/Simple-CPU-Emulator) `C++`
+A fully functional **5-stage pipelined RV32I RISC-V CPU emulator** in modern C++. Implements pipeline orchestration, hazard resolution, memory-mapped I/O, and cache hierarchy. Validated by executing real compiled binaries.
+
+---
+
+## Open Source
+
+
+### 🛡️ [SerenityOS: Kernel Race Condition Fix](https://github.com/SerenityOS/serenity/pull/26555) `C++`
+Resolved a critical race condition in `Process::die()` by clearing the stopped state under the scheduler lock, ensuring threads can safely resume and clean up their kernel stacks before exit. Prevents deadlocks in the kernel scheduler.
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | C++, C, Rust, Python, Ruby, SQL, Assembly (RISC-V / x86) |
+| **Systems** | Multithreaded Programming, SIMD, Kernel Sync, Memory Management, ISA Emulation |
+| **Performance** | GFLOPS Analysis, Cache Hierarchy, ILP/TLP Optimization |
+| **Tooling** | Git, GDB, Valgrind, Bash, Linux, CI/CD, Jira |
+
+---
+
+## Education
+
+**University of Toronto** — H.B.Sc. Computer Science (Specialist), 2020–2026
