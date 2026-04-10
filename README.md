@@ -1,46 +1,55 @@
-# Hi, I'm Luka 👋
+# Luka Rajic
 
-I'm a Computer Science Specialist graduate from the **University of Toronto**, passionate about systems programming, performance engineering, and building reliable software.
+**Computer Science Specialist · University of Toronto · Full-Stack & Systems**
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** C++, C, Rust, TypeScript, Ruby, C#, SQL  
-**Frontend:** Angular, React Native  
-**Backend:** .NET, Node.js  
-**Tools & Infra:** LLVM, CMake, Makefile, Git, SQL Server  
-**Concepts:** Systems Programming, Parallel & High-Performance Computing, Computer Architecture, Compilers, ERP/Enterprise Systems
+![C#](https://img.shields.io/badge/C%23-.NET-blue?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-Angular-blue?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL-Server-teal?style=flat-square&color=0d9e75) ![Rust](https://img.shields.io/badge/Rust-purple?style=flat-square&color=7f77dd) ![C++](https://img.shields.io/badge/C%2B%2B-Systems-coral?style=flat-square&color=d85a30) ![React Native](https://img.shields.io/badge/React_Native-TypeScript-purple?style=flat-square&color=7f77dd)
 
 ---
 
-## 💼 Experience
+## About
 
-### Software Developer — Sparkrock (formerly Edsembli)
-
----
-
-## 🚀 Projects
-
-### 🔧 Open Source
-
-**[SerenityOS — Process::die() scheduler fix](https://github.com/SerenityOS/serenity/pull/26555)** · C++  
-Patched a concurrency bug by clearing the stopped state in `Process::die()` while holding the scheduler lock, ensuring threads can correctly resume and clean up their kernel stacks before exiting.
+Final-year Computer Science Specialist at the University of Toronto with full-stack industry experience and a track record of shipping production features and contributing to open source. I enjoy working across the stack, from SQL schema design and backend APIs to frontend UX and low-level systems programming.
 
 ---
 
-### ⚡ Performance & Systems
+## Experience
 
-**[Optimized Matrix Multiplication](https://github.com/lukarajic/Optimized-Matrix-Multiplication)** · C++, Makefile  
-Incrementally optimized CPU matrix multiplication from a naive triple-loop (~1.7 GFLOPS) to ~120 GFLOPS on Apple Silicon, a **~70x speedup**, using cache blocking, SIMD vectorization, and multi-threading. A deep dive into memory hierarchy, ILP, and TLP.
-
-**[Simple CPU Emulator](https://github.com/lukarajic/Simple-CPU-Emulator)** · C++, Makefile  
-A 5-stage pipelined **RISC-V (RV32I)** CPU emulator in modern C++. Implements pipeline orchestration, hazard resolution, memory-mapped I/O, and a cache hierarchy.
-
-**[Parallel Algorithm Implementation](https://github.com/lukarajic/Parallel-Algorithm-Implementation)** · C++, Shell, CMake  
-High-performance C++ implementation of the **N-Body problem** optimized for multi-core CPUs, demonstrating parallel computing, algorithmic optimization, and memory architecture.
-
-**[Compiler Optimization](https://github.com/lukarajic/Compiler-Optimization)** · C++, CMake, LLVM  
-A custom compiler pipeline and **LLVM optimization pass** that translates a high-level frontend language into optimized x86-64 assembly.
+### Software Developer · Sparkrock (formerly Edsembli)
+`C#` `.NET` `TypeScript` `Angular` `SQL Server`
 
 ---
+
+## Projects
+
+### [Homebrew — `brew info --sizes`](https://github.com/Homebrew/brew/pull/20360) · *Open Source*
+`Ruby`
+
+Added a `--sizes` flag to `brew info` that shows disk usage for all installed formulae and casks, sorted in descending order. Also added `--formulae` and `--casks` filters for targeted inspection.
+
+---
+
+### [SerenityOS — Process cleanup fix](https://github.com/SerenityOS/serenity/pull/26555) · *Open Source*
+`C++` `OS internals`
+
+Patched a race condition in `Process::die()` by clearing the stopped state while holding the scheduler lock, allowing threads to correctly resume and clean up their kernel stacks before exiting.
+
+---
+
+### [AlgoDeck](https://github.com/lukarajic/AlgoDeck) · *Personal Project*
+`React Native` `TypeScript`
+
+Mobile flashcard app for LeetCode-style interview prep. Tracks performance over time and surfaces the problems that need the most practice.
+
+---
+
+### [PageWatch](https://github.com/lukarajic/PageWatch) · *Personal Project*
+`Rust`
+
+Lightweight CLI tool that monitors webpages for content changes, prices, availability, anything. Runs background checks and delivers real-time terminal notifications.
+
+---
+
+## Education
+
+**Honours Bachelor of Science — Computer Science Specialist**  
+University of Toronto
