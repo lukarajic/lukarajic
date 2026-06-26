@@ -2,7 +2,7 @@
 
 Software Engineer focused on systems, performance, and full-stack development. University of Toronto CS graduate.
 
-I like working close to the hardware — CPUs, caches, kernels — but I'm equally comfortable building production features across a modern web stack.
+I like working close to the hardware, CPUs, caches, kernels, but I'm equally comfortable building production features across a modern web stack.
 
 ## 🔧 What I'm Building
 
@@ -16,7 +16,7 @@ I like working close to the hardware — CPUs, caches, kernels — but I'm equal
 
 ## 💼 Experience
 
-Previously a Software Developer at **Sparkrock** (formerly Edsembli), working across a C#/.NET + SQL Server backend and TypeScript/Angular frontend on an enterprise ERP platform — shipped 200+ tickets, owned a critical expense module, and led incident resolution before client demos.
+Previously a Software Developer at **Sparkrock** (formerly Edsembli), working across a C#/.NET + SQL Server backend and TypeScript/Angular frontend on an enterprise ERP platform; shipped 200+ tickets, owned a critical expense module, and led incident resolution before client demos.
 
 ## 🛠️ Languages & Tools
 
